@@ -29,7 +29,7 @@
 
 ### Hadoop 설치
 
-![Hadoop_01](./img/Hadoop_01.png)
+![Hadoop_01-1](./img/Hadoop_01.png)
 
 ```
 1. 필요 파일 다운 로드
